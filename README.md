@@ -8,4 +8,4 @@ I performed region wise analysis for the features given in the dataset.
 
 I have done the Consumer analysis
 
-I have created the Phone analysis which consists of the highest sol phone region, lowest sold and profit earned areas etc.
+I have created the Phone analysis which consists of the highest sold phone regions in US, lowest sold and profit earned areas in US etc.
